@@ -1,0 +1,240 @@
+[
+ {
+  "english": "Hello",
+  "urdu": "السلام علیکم",
+  "category": "greeting",
+  "sign_type": "dynamic",
+  "model_label": 0
+ },
+ {
+  "english": "Thank you",
+  "urdu": "شکریہ",
+  "category": "greeting",
+  "sign_type": "dynamic",
+  "model_label": 1
+ },
+ {
+  "english": "Goodbye",
+  "urdu": "خدا حافظ",
+  "category": "greeting",
+  "sign_type": "dynamic",
+  "model_label": 2
+ },
+ {
+  "english": "Sorry",
+  "urdu": "معاف کیجیے",
+  "category": "greeting",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Good",
+  "urdu": "اچھا",
+  "category": "greeting",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Yes",
+  "urdu": "ہاں",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": 3
+ },
+ {
+  "english": "No",
+  "urdu": "نہیں",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": 4
+ },
+ {
+  "english": "Alright",
+  "urdu": "ٹھیک ہے",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "I don't know",
+  "urdu": "مجھے نہیں معلوم",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "I don't understand",
+  "urdu": "سمجھ نہیں آیا",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "What",
+  "urdu": "کیا",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Where",
+  "urdu": "کہاں",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "When",
+  "urdu": "کب",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Who",
+  "urdu": "کون",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Why",
+  "urdu": "کیوں",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "How",
+  "urdu": "کیسے",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "I",
+  "urdu": "میں",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "You",
+  "urdu": "آپ",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Friend",
+  "urdu": "دوست",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Mother",
+  "urdu": "امی",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Father",
+  "urdu": "ابو",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Water",
+  "urdu": "پانی",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": 6
+ },
+ {
+  "english": "Food",
+  "urdu": "کھانا",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Home",
+  "urdu": "گھر",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Washroom",
+  "urdu": "واش روم",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Name",
+  "urdu": "نام",
+  "category": "daily",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Help",
+  "urdu": "مدد",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": 5
+ },
+ {
+  "english": "Teacher",
+  "urdu": "استاد",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": 7
+ },
+ {
+  "english": "Book",
+  "urdu": "کتاب",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": 8
+ },
+ {
+  "english": "Question",
+  "urdu": "سوال",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": 9
+ },
+ {
+  "english": "Student",
+  "urdu": "طالب علم",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Again",
+  "urdu": "دوبارہ",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "University",
+  "urdu": "یونیورسٹی",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": null
+ },
+ {
+  "english": "Exam",
+  "urdu": "امتحان",
+  "category": "classroom",
+  "sign_type": "dynamic",
+  "model_label": null
+ }
+]

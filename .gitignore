@@ -1,0 +1,12 @@
+node_modules/
+dist/
+venv/
+.venv/
+__pycache__/
+.env
+web/public/mediapipe/wasm/
+ml/data/
+ml/models/*
+!ml/models/.gitkeep
+ml/reports/
+.DS_Store
